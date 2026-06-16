@@ -1,4 +1,3 @@
-<img width="1913" height="879" alt="image" src="https://github.com/user-attachments/assets/7c003db8-fd7c-4e4d-8a8f-2027f802142f" /># smart-edu-auto-player
 爱课程网视频自动播放
 # 智慧教育平台自动连播脚本
 
